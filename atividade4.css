@@ -8,6 +8,7 @@
 .data{
     color: #0077b6;
     padding: 5px; 
+    font-family: "Roboto", sans-serif;
 }
 div{
     background-color: #fff1e6;
@@ -21,4 +22,5 @@ h1{
 }
 p{
     padding: 5px;
+    font-family: Raleway;
 }
